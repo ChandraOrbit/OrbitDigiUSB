@@ -12,7 +12,7 @@ void loop() {
   
   // Type out this string letter by letter on the computer (assumes US-style
   // keyboard)
-  DigiKeyboard.println("Hello Digispark!");
+  DigiKeyboard.println("Ini Tes Saja Yoooooo");
   
   // It's better to use DigiKeyboard.delay() over the regular Arduino delay()
   // if doing keyboard stuff because it keeps talking to the computer to make
